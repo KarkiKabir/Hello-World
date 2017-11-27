@@ -1,4 +1,4 @@
 # Hello-World
-just another repository
+hello peoples,
 i like web development programming.
 i had completed some tutoril in javascript.
